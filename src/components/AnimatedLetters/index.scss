@@ -1,0 +1,23 @@
+.text-animate {
+    opacity: 0;
+    animation: bounceIn 1s;
+    animation-fill-mode: forwards;
+}
+
+    .text-animate-hover{
+      min-height: 10px;
+      animation-fill-mode: both;
+      
+      &:hover{
+        animation: rubberBand 1s;
+        color: var(--tag-color);
+      }
+    }
+  
+  
+  @for $i from 1 through 43 {
+    .text-animate._#{$i} {
+      animation-delay: #{$i * 0.1}s; /* Use $i * 0.1 to increment the delay */
+    }
+  }
+  
