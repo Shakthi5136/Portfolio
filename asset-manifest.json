@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Shakthi5136/Portfolio.git/static/css/main.4aa99d1a.css",
-    "main.js": "/Shakthi5136/Portfolio.git/static/js/main.c599efb3.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Shakthi5136/Portfolio.git/static/js/787.1ed0c42c.chunk.js",
-    "static/media/helvetica-neu.ttf": "/Shakthi5136/Portfolio.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/Shakthi5136/Portfolio.git/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/logo-s.png": "/Shakthi5136/Portfolio.git/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff": "/Shakthi5136/Portfolio.git/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "index.html": "/Shakthi5136/Portfolio.git/index.html",
-    "main.4aa99d1a.css.map": "/Shakthi5136/Portfolio.git/static/css/main.4aa99d1a.css.map",
-    "main.c599efb3.js.map": "/Shakthi5136/Portfolio.git/static/js/main.c599efb3.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Shakthi5136/Portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "//Portfolio/static/css/main.8b37af09.css",
+    "main.js": "//Portfolio/static/js/main.18a91f1d.js",
+    "static/js/787.1ed0c42c.chunk.js": "//Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/helvetica-neu.ttf": "//Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "//Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo-s.png": "//Portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "//Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "index.html": "//Portfolio/index.html",
+    "main.8b37af09.css.map": "//Portfolio/static/css/main.8b37af09.css.map",
+    "main.18a91f1d.js.map": "//Portfolio/static/js/main.18a91f1d.js.map",
+    "787.1ed0c42c.chunk.js.map": "//Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa99d1a.css",
-    "static/js/main.c599efb3.js"
+    "static/css/main.8b37af09.css",
+    "static/js/main.18a91f1d.js"
   ]
 }
