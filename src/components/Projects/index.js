@@ -8,6 +8,8 @@ import { faCss3, faGit, faHtml5, faJava, faJsSquare, faReact } from '@fortawesom
 import Loader from 'react-loaders';
 
 const Project = () => {
+
+  
   useEffect(() => {
     const timeoutId = setTimeout(() => {
       setLetterClass('text-animate-hover');
